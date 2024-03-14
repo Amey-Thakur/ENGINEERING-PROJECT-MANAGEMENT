@@ -8,6 +8,8 @@
  
  - [X] **[Reference Books](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/tree/main/Reference%20Books)**
  
+ - [X] **[Lecture Slides]()**
+ 
  - [X] **[Resources](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/tree/main/Resources)**
 
 ---
@@ -49,50 +51,6 @@
 - [EPM 17](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Notes/EPM%2017%20-%20Project%20Implementation%20Overview.pdf) - Project Implementation Overview
 
 - [EPM 18](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Notes/EPM%2018%20-%20Project%20Completion.pdf) - Project Completion
-
-#
-
->Lecture Slides
-
-- **Week 1**
-  - [Chapter 1](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%201/Chapter%201.pdf) - Project Management: Past and Present
-  - [Chapter 2](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%201/Chapter%202.pdf) - Project Management Overview
-  - [Chapter 3](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%201/Chapter%203.pdf) - The Project Life Cycle
-    
-- **Week 2**
-  - [Chapter 4](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%202/Chapter%204.pdf) - Framework for Project Management
-  - [Chapter 5](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%202/Chapter%205.pdf) - Project Stakeholder Management
-
-- **Week 3**
-  - _Holiday_
-    
-- **Week 4**
-  - [Chapter 6](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%204/Chapter%206.pdf) - Culture and Project Management
-  - [Chapter 7](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%204/Chapter%207.pdf) - Project Initiation
-  
-- **Week 5**
-  - [Chapter 8](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%205/Chapter%208.pdf) - Overview of Project Planning
-  - [Chapter 9](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%205/Chapter%209.pdf) - Scope Planning
-  - [Chapter 10](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%205/Chapter%2010.pdf) - Project Schedule Planning
- 
-- **Week 6**
-  - [Midterm Exam](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%206/MidTerm%20Submission.pdf)
-  
-- **Week 7**
-  - [Chapter 11](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%207/Chapter%2011.pdf) - Resource Planning
-  - [Chapter 12](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%207/Chapter%2012.pdf) - Budget Planning
-
-- **Week 8**
-  - [Chapter 13](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%208/Chapter%2013.pdf) - Procurement Management
-  - [Chapter 14](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%208/Chapter%2014.pdf) - Quality Planning
-    
-- **Week 9**
-  - [Chapter 15](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%209/Chapter%2015.pdf) - Communication Planning
-  - [Chapter 16](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%209/Chapter%2016.pdf) - Risk Management Planning
-    
-- **Week 10**
-  - [Chapter 17](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%2010/Chapter%2017.pdf) - Project Implementation Overview
-  - [Chapter 18](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Week%2010/Chapter%2018.pdf) - Project Completion
 
 ---
 
