@@ -14,7 +14,7 @@
 
 ---
 
->**Notes - [Amey Thakur](https://github.com/Amey-Thakur)**
+## Notes 
 
 - EPM [Chapter 1](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Notes/EPM%201%20-%20Project%20Management-Past%20and%20Present.pdf) - Project Management-Past and Present
 
