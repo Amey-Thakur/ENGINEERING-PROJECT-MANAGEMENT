@@ -8,7 +8,7 @@
  
  - [X] **[Reference Books](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/tree/main/Reference%20Books)**
  
- - [X] **[Lecture Slides]()**
+ - [X] **[Lecture Slides](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/tree/main/Lecture%20Slides)**
  
  - [X] **[Resources](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/tree/main/Resources)**
 
