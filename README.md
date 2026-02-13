@@ -107,10 +107,20 @@ A systematic archival registry documenting technical proficiency, analytical rig
      ========================================================================================= -->
 ### Quizzes
 
-| # | Quiz | Topics | Date |
-| :---: | :--- | :--- | :---: |
-| 1 | [Quiz Collection](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) | Comprehensive Quiz Bank | — |
-| 2 | [Quiz 3](Lecture%20Slides/Week%204/Quiz%203%20Submission.png) | Week 04 Assessment | — |
+| # | Quiz | Topic | Date | Marks |
+| :-: | :--- | :--- | :-: | :-: |
+| 1 | Quiz 1 | In-class Assessment | May 08, 2023 | 25/25 |
+| 2 | Quiz 2 | In-class Assessment | May 15, 2023 | 25/25 |
+| 3 | [Quiz 3](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) | In-class Assessment | May 29, 2023 | 25/25 |
+| 4 | Quiz 4 | In-class Assessment | June 05, 2023 | 25/25 |
+| — | Midterm Exam | In-class Assessment | June 12, 2023 | — |
+| — | Reading Week | — | June 19, 2023 | — |
+| 5 | [Quiz 5](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) | In-class Assessment | June 26, 2023 | 25/25 |
+| 6 | Quiz 6 | In-class Assessment | July 10, 2023 | 25/25 |
+| 7 | Quiz 7 | In-class Assessment | July 17, 2023 | 25/25 |
+| 8 | Quiz 8 | In-class Assessment | July 24, 2023 | 25/25 |
+| 9 | Quiz 9 | In-class Assessment | July 31, 2023 | 25/25 |
+| 10 | Quiz 10 | In-class Assessment | August 09, 2023 | 25/25 |
 
 ---
 
