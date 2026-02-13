@@ -91,7 +91,6 @@ Study materials and planning resources for effective academic progression:
 ---
 
 ### Assignments
-A systematic archival registry documenting technical proficiency, analytical rigor, and project management standards across the Summer 2023 session.
 
 | # | Assignment | Topic | Mandate | Submission | Feedback | Date | Marks |
 | :---: | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -129,9 +128,10 @@ A systematic archival registry documenting technical proficiency, analytical rig
      ========================================================================================= -->
 ### My Notes
 
-**A curated collection of personal study notes authored to deepen understanding of project management methodologies.**
+**A curated collection of personal study notes authored by Amey Thakur to deepen understanding of project management methodologies.**
 
-These documents represent a scholarly synthesis of course lectures, textbook concepts, and industry standards, organized to serve as a precise and accessible reference for continuous learning.
+> [!IMPORTANT]
+> **Strategic Insight:** Project management is the art of forward-thinking. These notes are designed to show that *Planning* is not just paperwork; it is the engineering of certainty in an uncertain environment. By mastering these foundational concepts, you move beyond simply managing tasks to leading complex engineering systems with confidence and precision.
 
 | # | Topic | Focus Area | Notes |
 | :-: | :--- | :--- | :---: |
