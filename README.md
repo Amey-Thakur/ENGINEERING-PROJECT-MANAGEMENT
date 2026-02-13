@@ -24,7 +24,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [My Notes](#my-notes) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [My Notes](#my-notes) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -90,39 +90,6 @@ Study materials and planning resources for effective academic progression:
 
 ---
 
-### Assignments
-
-| # | Assignment | Topic | Mandate | Submission | Feedback | Date | Marks |
-| :---: | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1 | [Assignment 1](Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20[Amey%20Thakur%20-%20110107589].pdf) | A Comparative Evaluation of Project Management Software for Engineering Projects: Trello, Notion, and ClickUp | [Question Paper](Assignments/EPM%20Assignment%201/Assignment%201%20-%20Engineering%20Project%20Management.pdf) | [PDF](Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20[Amey%20Thakur%20-%20110107589].pdf)<br>• [DOCX](Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20[Amey%20Thakur%20-%20110107589].docx)<br>• [Receipt](Assignments/EPM%20Assignment%201/EPM%20Assignment%201%20Submission%20Receipt.pdf) | [Feedback](Assignments/EPM%20Assignment%201/Feedback%20for%20Assignment%201.pdf)<br>• [Score Card](Assignments/EPM%20Assignment%201/Overall%20score.png) | May 23, 2023 | 95/100 |
-| 2 | [Assignment 2](Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.pdf) | Driving Success through Project Management Implementation: A Case Study Analysis of Global Green Books Publishing | [Question Paper](Assignments/EPM%20Assignment%202/Assignment%202%20-%20Engineering%20Project%20Management.pdf)<br>• [Case Study](Assignments/EPM%20Assignment%202/mini-case-1-global-green-books.pdf) | [PDF](Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.pdf)<br>• [DOCX](Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.docx) | [Feedback](Assignments/EPM%20Assignment%202/Feedback%20for%20Assignment%202.pdf)<br>• [Score Card](Assignments/EPM%20Assignment%202/Overall%20Score.png) | June 28, 2023 | 95/100 |
-| 3 | [Assignment 3](Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf) | Streamlining Digital Identity Verification: A Case Study of an E-KYC Platform Implementation | [Question Paper](Assignments/EPM%20Assignment%203/Assignment%203%20-%20Engineering%20Project%20Management.pdf) | [PDF](Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf)<br>• [DOCX](Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.docx) | — | July 15, 2023 | — |
-
-
----
-
-<!-- =========================================================================================
-                                     QUIZZES SECTION
-     ========================================================================================= -->
-### Quizzes
-
-| # | Quiz | Topic | Date | Marks |
-| :-: | :--- | :--- | :-: | :-: |
-| 1 | Quiz 1 | In-class Assessment | May 08, 2023 | 25/25 |
-| 2 | Quiz 2 | In-class Assessment | May 15, 2023 | 25/25 |
-| 3 | [Quiz 3](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) | In-class Assessment | May 29, 2023 | 25/25 |
-| 4 | Quiz 4 | In-class Assessment | June 05, 2023 | 25/25 |
-| — | Midterm Exam | In-class Assessment | June 12, 2023 | — |
-| — | Reading Week | — | June 19, 2023 | — |
-| 5 | [Quiz 5](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) | In-class Assessment | June 26, 2023 | 25/25 |
-| 6 | Quiz 6 | In-class Assessment | July 10, 2023 | 25/25 |
-| 7 | Quiz 7 | In-class Assessment | July 17, 2023 | 25/25 |
-| 8 | Quiz 8 | In-class Assessment | July 24, 2023 | 25/25 |
-| 9 | Quiz 9 | In-class Assessment | July 31, 2023 | 25/25 |
-| 10 | Quiz 10 | In-class Assessment | August 09, 2023 | 25/25 |
-
----
-
 <!-- =========================================================================================
                                      MY NOTES SECTION
      ========================================================================================= -->
@@ -153,6 +120,38 @@ Study materials and planning resources for effective academic progression:
 | 16 | **Risk Mitigation** | Risk Management Planning | [View](Notes/EPM%2016%20-%20Risk%20Management%20Planning.pdf) |
 | 17 | **Execution** | Project Implementation Overview | [View](Notes/EPM%2017%20-%20Project%20Implementation%20Overview.pdf) |
 | 18 | **Closure** | Project Completion | [View](Notes/EPM%2018%20-%20Project%20Completion.pdf) |
+
+---
+
+### Assignments
+
+| # | Assignment | Topic | Mandate | Submission | Feedback | Date | Marks |
+| :---: | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| 1 | [Assignment 1](Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20[Amey%20Thakur%20-%20110107589].pdf) | A Comparative Evaluation of Project Management Software for Engineering Projects: Trello, Notion, and ClickUp | [Question Paper](Assignments/EPM%20Assignment%201/Assignment%201%20-%20Engineering%20Project%20Management.pdf) | [PDF](Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20[Amey%20Thakur%20-%20110107589].pdf)<br>• [DOCX](Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20[Amey%20Thakur%20-%20110107589].docx)<br>• [Receipt](Assignments/EPM%20Assignment%201/EPM%20Assignment%201%20Submission%20Receipt.pdf) | [Feedback](Assignments/EPM%20Assignment%201/Feedback%20for%20Assignment%201.pdf)<br>• [Score Card](Assignments/EPM%20Assignment%201/Overall%20score.png) | May 23, 2023 | 95/100 |
+| 2 | [Assignment 2](Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.pdf) | Driving Success through Project Management Implementation: A Case Study Analysis of Global Green Books Publishing | [Question Paper](Assignments/EPM%20Assignment%202/Assignment%202%20-%20Engineering%20Project%20Management.pdf)<br>• [Case Study](Assignments/EPM%20Assignment%202/mini-case-1-global-green-books.pdf) | [PDF](Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.pdf)<br>• [DOCX](Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.docx) | [Feedback](Assignments/EPM%20Assignment%202/Feedback%20for%20Assignment%202.pdf)<br>• [Score Card](Assignments/EPM%20Assignment%202/Overall%20Score.png) | June 28, 2023 | 95/100 |
+| 3 | [Assignment 3](Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf) | Streamlining Digital Identity Verification: A Case Study of an E-KYC Platform Implementation | [Question Paper](Assignments/EPM%20Assignment%203/Assignment%203%20-%20Engineering%20Project%20Management.pdf) | [PDF](Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf)<br>• [DOCX](Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.docx) | — | July 15, 2023 | — |
+
+---
+
+<!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
+### Quizzes
+
+| # | Quiz | Topic | Date | Marks |
+| :-: | :--- | :--- | :-: | :-: |
+| 1 | Quiz 1 | In-class Assessment | May 08, 2023 | 25/25 |
+| 2 | Quiz 2 | In-class Assessment | May 15, 2023 | 25/25 |
+| 3 | [Quiz 3](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) | In-class Assessment | May 29, 2023 | 25/25 |
+| 4 | Quiz 4 | In-class Assessment | June 05, 2023 | 25/25 |
+| — | Midterm Exam | In-class Assessment | June 12, 2023 | — |
+| — | Reading Week | — | June 19, 2023 | — |
+| 5 | [Quiz 5](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) | In-class Assessment | June 26, 2023 | 25/25 |
+| 6 | Quiz 6 | In-class Assessment | July 10, 2023 | 25/25 |
+| 7 | Quiz 7 | In-class Assessment | July 17, 2023 | 25/25 |
+| 8 | Quiz 8 | In-class Assessment | July 24, 2023 | 25/25 |
+| 9 | Quiz 9 | In-class Assessment | July 31, 2023 | 25/25 |
+| 10 | Quiz 10 | In-class Assessment | August 09, 2023 | 25/25 |
 
 ---
 
