@@ -24,7 +24,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [My Notes](#my-notes) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -121,6 +121,38 @@ A systematic archival registry documenting technical proficiency, analytical rig
 | 8 | Quiz 8 | In-class Assessment | July 24, 2023 | 25/25 |
 | 9 | Quiz 9 | In-class Assessment | July 31, 2023 | 25/25 |
 | 10 | Quiz 10 | In-class Assessment | August 09, 2023 | 25/25 |
+
+---
+
+<!-- =========================================================================================
+                                     MY NOTES SECTION
+     ========================================================================================= -->
+### My Notes
+
+**A curated collection of personal study notes authored to deepen understanding of project management methodologies.**
+
+These documents represent a scholarly synthesis of course lectures, textbook concepts, and industry standards, organized to serve as a precise and accessible reference for continuous learning.
+
+| # | Topic | Focus Area | Notes |
+| :-: | :--- | :--- | :---: |
+| 1 | **History & Evolution** | Project Management: Past and Present | [View](Notes/EPM%201%20-%20Project%20Management-Past%20and%20Present.pdf) |
+| 2 | **Core Framework** | Project Management Overview | [View](Notes/EPM%202%20-%20Project%20Management%20Overview.pdf) |
+| 3 | **Lifecycle Dynamics** | The Project Life Cycle | [View](Notes/EPM%203%20-%20The%20Project%20Life%20Cycle.pdf) |
+| 4 | **Methodologies** | Framework for Project Management | [View](Notes/EPM%204%20-%20Framework%20for%20Project%20Management.pdf) |
+| 5 | **Stakeholder Engagement** | Project Stakeholder Management | [View](Notes/EPM%205%20-%20Project%20Stakeholder%20Management.pdf) |
+| 6 | **Organizational Culture** | Culture and Project Management | [View](Notes/EPM%206%20-%20Culture%20and%20Project%20Management.pdf) |
+| 7 | **Initiation Phase** | Project Initiation | [View](Notes/EPM%207%20-%20Project%20Initiation.pdf) |
+| 8 | **Planning Fundamentals** | Overview of Project Planning | [View](Notes/EPM%208%20-%20Overview%20of%20Project%20Planning.pdf) |
+| 9 | **Scope Definition** | Scope Planning | [View](Notes/EPM%209%20-%20Scope%20Planning.pdf) |
+| 10 | **Schedule Management** | Project Schedule Planning | [View](Notes/EPM%2010%20-%20Project%20Schedule%20Planning.pdf) |
+| 11 | **Resource Allocation** | Resource Planning | [View](Notes/EPM%2011%20-%20Resource%20Planning.pdf) |
+| 12 | **Cost Management** | Budget Planning | [View](Notes/EPM%2012%20-%20Budget%20Planning.pdf) |
+| 13 | **Procurement Strategy** | Procurement Management | [View](Notes/EPM%2013%20-%20Procurement%20Management.pdf) |
+| 14 | **Quality Assurance** | Quality Planning | [View](Notes/EPM%2014%20-%20Quality%20Planning.pdf) |
+| 15 | **Communications** | Communication Planning | [View](Notes/EPM%2015%20-%20Communication%20Planning.pdf) |
+| 16 | **Risk Mitigation** | Risk Management Planning | [View](Notes/EPM%2016%20-%20Risk%20Management%20Planning.pdf) |
+| 17 | **Execution** | Project Implementation Overview | [View](Notes/EPM%2017%20-%20Project%20Implementation%20Overview.pdf) |
+| 18 | **Closure** | Project Completion | [View](Notes/EPM%2018%20-%20Project%20Completion.pdf) |
 
 ---
 
@@ -236,7 +268,7 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
   <!-- Footer Navigation -->
   [↑ Back to Top](#engineering-project-management)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [My Notes](#my-notes) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
