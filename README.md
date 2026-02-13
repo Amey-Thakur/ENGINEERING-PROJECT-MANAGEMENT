@@ -105,7 +105,7 @@ A systematic archival registry documenting technical proficiency, analytical rig
 <!-- =========================================================================================
                                      QUIZZES SECTION
      ========================================================================================= -->
-## Quizzes
+### Quizzes
 
 | # | Quiz | Topics | Date |
 | :---: | :--- | :--- | :---: |
