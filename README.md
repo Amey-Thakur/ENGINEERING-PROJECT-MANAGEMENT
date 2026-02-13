@@ -162,18 +162,17 @@ Study materials and planning resources for effective academic progression:
 ### Lecture Notes
 A comprehensive archival log documenting pedagogical discourse, session timelines, and applied management theory for the Summer 2023 session.
 
-| # | Week | Analytical Focus | Lecture Slides | Notes |
-| :---: | :---: | :--- | :---: | :---: |
-| 1 | **Week 01** | Project Management-Past and Present | [View](Lecture%20Slides/Week%201/) | [View](Notes/EPM%201%20-%20Project%20Management-Past%20and%20Present.pdf) |
-| 2 | **Week 02** | Management Overview & Lifecycle | [View](Lecture%20Slides/Week%202/) | [View](Notes/EPM%202%20-%20Project%20Management%20Overview.pdf) |
-| 3 | **Week 03** | The Project Life Cycle | [View](Lecture%20Slides/Week%201/Chapter%203.pdf) | [View](Notes/EPM%203%20-%20The%20Project%20Life%20Cycle.pdf) |
-| 4 | **Week 04** | Management Framework & Stakeholders | [View](Lecture%20Slides/Week%204/) | [View](Notes/EPM%204%20-%20Framework%20for%20Project%20Management.pdf) |
-| 5 | **Week 05** | Culture & Initiation Overview | [View](Lecture%20Slides/Week%205/) | [View](Notes/EPM%205%20-%20Project%20Stakeholder%20Management.pdf) |
-| 6 | **Week 06** | Project Planning Overview | [View](Lecture%20Slides/Week%206/Midterm%20Submission.pdf) | [View](Notes/EPM%206%20-%20Culture%20and%20Project%20Management.pdf) |
-| 7 | **Week 07** | Scope & Schedule Planning | [View](Lecture%20Slides/Week%207/) | [View](Notes/EPM%207%20-%20Project%20Initiation.pdf) |
-| 8 | **Week 08** | Resource & Budget Planning | [View](Lecture%20Slides/Week%208/) | [View](Notes/EPM%208%20-%20Overview%20of%20Project%20Planning.pdf) |
-| 9 | **Week 09** | Procurement & Quality Planning | [View](Lecture%20Slides/Week%209/) | [View](Notes/EPM%209%20-%20Scope%20Planning.pdf) |
-| 10 | **Week 10** | Communication & Risk Management | [View](Lecture%20Slides/Week%2010/) | [View](Notes/EPM%2010%20-%20Project%20Schedule%20Planning.pdf) |
+| # | Week | Lecture Slides | Supplemental Resources |
+| :-: | :---: | :--- | :--- |
+| 1 | **Week 01** | • [Chapter 1](Lecture%20Slides/Week%201/Chapter%201.pdf)<br>• [Chapter 2](Lecture%20Slides/Week%201/Chapter%202.pdf)<br>• [Chapter 3](Lecture%20Slides/Week%201/Chapter%203.pdf) | • [Supplemental Slide Deck 1](Lecture%20Slides/Week%201/GENG%208020%20Supplemental%20Slide%20Deck%201.pdf)<br>• [Supplemental Slide Deck 2](Lecture%20Slides/Week%201/GENG%208020%20Supplemental%20Slide%20Deck%202.pdf)<br>• [Supplemental Slide Deck 3](Lecture%20Slides/Week%201/GENG%208020%20Supplemental%20Slide%20Deck%203.pdf) |
+| 2 | **Week 02** | • [Chapter 4](Lecture%20Slides/Week%202/Chapter%204.pdf)<br>• [Chapter 5](Lecture%20Slides/Week%202/Chapter%205.pdf) | • [Supplemental Slide Deck 4](Lecture%20Slides/Week%202/GENG%208020%20Supplemental%20Slide%20Deck%20%234.pdf)<br>• [Supplemental Slide Deck 5](Lecture%20Slides/Week%202/GENG%208020%20Supplemental%20Slide%20Deck%20%235.pdf) |
+| 3 | **Week 04** | • [Chapter 6](Lecture%20Slides/Week%204/Chapter%206.pdf)<br>• [Chapter 7](Lecture%20Slides/Week%204/Chapter%207.pdf) | • [Quiz 3 Submission](Lecture%20Slides/Week%204/Quiz%203%20Submission.png) |
+| 4 | **Week 05** | • [Chapter 8](Lecture%20Slides/Week%205/Chapter%208.pdf)<br>• [Chapter 9](Lecture%20Slides/Week%205/Chapter%209.pdf)<br>• [Chapter 10](Lecture%20Slides/Week%205/Chapter%2010.pdf) | • [Supplemental Slide Deck 6](Lecture%20Slides/Week%205/GENG%208020%20Supplemental%20Slide%20Deck%20%236.pdf)<br>• [Supplemental Slide Deck 7](Lecture%20Slides/Week%205/GENG%208020%20Supplemental%20Slide%20Deck%20%237.pdf) |
+| 5 | **Week 06** | — | • [Midterm Submission](Lecture%20Slides/Week%206/Midterm%20Submission.pdf) |
+| 6 | **Week 07** | • [Chapter 11](Lecture%20Slides/Week%207/Chapter%2011.pdf)<br>• [Chapter 12](Lecture%20Slides/Week%207/Chapter%2012.pdf) | • [Supplemental Slide Deck 8](Lecture%20Slides/Week%207/GENG%208020%20Supplemental%20Slide%20Deck%20%238.pdf)<br>• [Supplemental Slide Deck 9](Lecture%20Slides/Week%207/GENG%208020%20Supplemental%20Slide%20Deck%20%239.pdf)<br>• [Quiz Collection](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) |
+| 7 | **Week 08** | • [Chapter 13](Lecture%20Slides/Week%208/Chapter%2013.pdf)<br>• [Chapter 14](Lecture%20Slides/Week%208/Chapter%2014.pdf) | • [Supplemental Slide Deck 10](Lecture%20Slides/Week%208/GENG%208020%20Supplemental%20Slide%20Deck%20%2310.pdf)<br>• [Supplemental Slide Deck 11](Lecture%20Slides/Week%208/GENG%208020%20Supplemental%20Slide%20Deck%20%2311.pdf) |
+| 8 | **Week 09** | • [Chapter 15](Lecture%20Slides/Week%209/Chapter%2015.pdf)<br>• [Chapter 16](Lecture%20Slides/Week%209/Chapter%2016.pdf) | • [Supplemental Slide Deck 12](Lecture%20Slides/Week%209/GENG%208020%20Supplemental%20Slide%20Deck%20%2312.pdf)<br>• [Supplemental Slide Deck 13](Lecture%20Slides/Week%209/GENG%208020%20Supplemental%20Slide%20Deck%20%2313.pdf) |
+| 9 | **Week 10** | • [Chapter 17](Lecture%20Slides/Week%2010/Chapter%2017.pdf)<br>• [Chapter 18](Lecture%20Slides/Week%2010/Chapter%2018.pdf) | — |
 
 ---
 
