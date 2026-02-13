@@ -75,7 +75,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [Project Management](Reference%20Books/Project%20Management.pdf) | Comprehensive management methodologies and advanced engineering applications |
+| 1 | [Project Management - Adrienne Watt](Reference%20Books/Project%20Management%20-%20Adrienne%20Watt.pdf) | This book covers the basics of project management, including the process of initiation, planning, execution, control, and closeout that all projects share. |
 
 ---
 
