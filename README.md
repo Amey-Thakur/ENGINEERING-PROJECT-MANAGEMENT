@@ -93,11 +93,11 @@ Study materials and planning resources for effective academic progression:
 ### Assignments
 A systematic archival registry documenting technical proficiency, analytical rigor, and project management standards across the Summer 2023 session.
 
-| # | Assignment | Question Dashboard | Overview Dashboard | Score Card Dashboard |
-| :---: | :--- | :---: | :---: | :---: |
-| 1 | [Assignment 1](Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20[Amey%20Thakur%20-%20110107589].pdf) | [View](Assignments/EPM%20Assignment%201/Assignment%201%20-%20Engineering%20Project%20Management.pdf) | [View](Assignments/EPM%20Assignment%201/EPM%20Assignment%201%20Submission%20Receipt.pdf) | [View](Assignments/EPM%20Assignment%201/Overall%20score.png) |
-| 2 | [Assignment 2](Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.pdf) | [View](Assignments/EPM%20Assignment%202/Assignment%202%20-%20Engineering%20Project%20Management.pdf) | [View](Assignments/EPM%20Assignment%202/mini-case-1-global-green-books.pdf) | [View](Assignments/EPM%20Assignment%202/Overall%20Score.png) |
-| 3 | [Assignment 3](Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf) | [View](Assignments/EPM%20Assignment%203/Assignment%203%20-%20Engineering%20Project%20Management.pdf) | [View](Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf) | [N/A] |
+| # | Assignment | Question Dashboard | Overview Dashboard | Score Card Dashboard | Date | Marks |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| 1 | [Assignment 1](Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20[Amey%20Thakur%20-%20110107589].pdf) | [View](Assignments/EPM%20Assignment%201/Assignment%201%20-%20Engineering%20Project%20Management.pdf) | [View](Assignments/EPM%20Assignment%201/EPM%20Assignment%201%20Submission%20Receipt.pdf) | [View](Assignments/EPM%20Assignment%201/Overall%20score.png) | May 23, 2023 | 100/100 |
+| 2 | [Assignment 2](Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.pdf) | [View](Assignments/EPM%20Assignment%202/Assignment%202%20-%20Engineering%20Project%20Management.pdf) | [View](Assignments/EPM%20Assignment%202/mini-case-1-global-green-books.pdf) | [View](Assignments/EPM%20Assignment%202/Overall%20Score.png) | June 28, 2023 | 100/100 |
+| 3 | [Assignment 3](Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf) | [View](Assignments/EPM%20Assignment%203/Assignment%203%20-%20Engineering%20Project%20Management.pdf) | [View](Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf) | [N/A] | July 15, 2023 | 100/100 |
 
 > [!NOTE]  
 > Detailed **Feedback** and **Overall Score Cards** are available within their respective assignment directories for comprehensive review.
