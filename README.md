@@ -24,7 +24,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -102,6 +102,21 @@ A systematic archival registry documenting technical proficiency, analytical rig
 
 ---
 
+<!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
+## Quizzes
+
+| # | Quiz | Topics | Date |
+| :---: | :--- | :--- | :---: |
+| 1 | [Quiz Collection](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) | Comprehensive Quiz Bank | — |
+| 2 | [Quiz 3](Lecture%20Slides/Week%204/Quiz%203%20Submission.png) | Week 04 Assessment | — |
+
+---
+
+<!-- =========================================================================================
+                                     LECTURE NOTES SECTION
+     ========================================================================================= -->
 ### Lecture Notes
 A comprehensive archival log documenting pedagogical discourse, session timelines, and applied management theory for the Summer 2023 session.
 
@@ -165,6 +180,8 @@ The documentation and organization may provide insights into scholarly managemen
 
 ---
 
+
+
 <!-- =========================================================================================
                                      LICENSE SECTION
      ========================================================================================= -->
@@ -204,7 +221,7 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
   <!-- Footer Navigation -->
   [↑ Back to Top](#engineering-project-management)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
