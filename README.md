@@ -210,7 +210,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to **Prof. James Linton** for his rigorous and insightful instruction throughout the GENG 8020 Engineering Project Management course. His expertise in project lifecycles and stakeholder governance established a strong platform for my subsequent professional engineering research and coursework. His dedication to academic excellence and clarity in explaining complex management structures is gratefully acknowledged.
+Grateful acknowledgment to **Prof. James Linton** for his rigorous and insightful instruction throughout the GENG 8020 Engineering Project Management course. His expertise in project lifecycles and stakeholder governance established a strong platform for my subsequent professional engineering research and coursework. Special appreciation is extended for his pedagogical innovation in administering thought-provoking in-class quizzes during each session, which effectively bridged theoretical concepts with practical application. His lucid teaching methodology and dedication to academic excellence in explaining complex management structures are gratefully acknowledged.
 
 Grateful acknowledgment to **Jason Horn**, **[Writing Support Desk](https://github.com/Amey-Thakur/WRITING-SUPPORT)**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
