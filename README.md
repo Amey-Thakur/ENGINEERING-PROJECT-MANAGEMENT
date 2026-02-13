@@ -172,7 +172,7 @@ A comprehensive archival log documenting pedagogical discourse, session timeline
 | 3 | **Week 03** | — | — | — |
 | 4 | **Week 04** | • Culture and Project Management<br>• Project Initiation | • [Chapter 6](Lecture%20Slides/Week%204/Chapter%206.pdf)<br>• [Chapter 7](Lecture%20Slides/Week%204/Chapter%207.pdf) | • [Quiz 3 Submission](Lecture%20Slides/Week%204/Quiz%203%20Submission.png) |
 | 5 | **Week 05** | • Overview of Project Planning<br>• Scope Planning<br>• Project Schedule Planning | • [Chapter 8](Lecture%20Slides/Week%205/Chapter%208.pdf)<br>• [Chapter 9](Lecture%20Slides/Week%205/Chapter%209.pdf)<br>• [Chapter 10](Lecture%20Slides/Week%205/Chapter%2010.pdf) | • [Supplemental Slide Deck 6](Lecture%20Slides/Week%205/GENG%208020%20Supplemental%20Slide%20Deck%20%236.pdf)<br>• [Supplemental Slide Deck 7](Lecture%20Slides/Week%205/GENG%208020%20Supplemental%20Slide%20Deck%20%237.pdf) |
-| 6 | **Week 06** | • Midterm Examination | — | • [Midterm Submission](Lecture%20Slides/Week%206/Midterm%20Submission.pdf) |
+| 6 | **Week 06** | • Midterm Examination | — | • [Midterm Submission](Lecture%20Slides/Week%206/MidTerm%20Submission.pdf) |
 | 7 | **Week 07** | • Resource Planning<br>• Budget Planning | • [Chapter 11](Lecture%20Slides/Week%207/Chapter%2011.pdf)<br>• [Chapter 12](Lecture%20Slides/Week%207/Chapter%2012.pdf) | • [Supplemental Slide Deck 8](Lecture%20Slides/Week%207/GENG%208020%20Supplemental%20Slide%20Deck%20%238.pdf)<br>• [Supplemental Slide Deck 9](Lecture%20Slides/Week%207/GENG%208020%20Supplemental%20Slide%20Deck%20%239.pdf)<br>• [Quiz 5 Submission](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) |
 | 8 | **Week 08** | • Procurement Management<br>• Quality Planning | • [Chapter 13](Lecture%20Slides/Week%208/Chapter%2013.pdf)<br>• [Chapter 14](Lecture%20Slides/Week%208/Chapter%2014.pdf) | • [Supplemental Slide Deck 10](Lecture%20Slides/Week%208/GENG%208020%20Supplemental%20Slide%20Deck%20%2310.pdf)<br>• [Supplemental Slide Deck 11](Lecture%20Slides/Week%208/GENG%208020%20Supplemental%20Slide%20Deck%20%2311.pdf) |
 | 9 | **Week 09** | • Communication Planning<br>• Risk Management Planning | • [Chapter 15](Lecture%20Slides/Week%209/Chapter%2015.pdf)<br>• [Chapter 16](Lecture%20Slides/Week%209/Chapter%2016.pdf) | • [Supplemental Slide Deck 12](Lecture%20Slides/Week%209/GENG%208020%20Supplemental%20Slide%20Deck%20%2312.pdf)<br>• [Supplemental Slide Deck 13](Lecture%20Slides/Week%209/GENG%208020%20Supplemental%20Slide%20Deck%20%2313.pdf) |
@@ -189,7 +189,7 @@ The midterm examination serves as a critical checkpoint in the course, evaluatin
 
 | # | Examination Milestone | Archival Deliverables |
 | :---: | :--- | :--- |
-| 1 | **Midterm Examination** | [Midterm Submission Record](Lecture%20Slides/Week%206/Midterm%20Submission.pdf) |
+| 1 | **Midterm Examination** | [Midterm Submission Record](Lecture%20Slides/Week%206/MidTerm%20Submission.pdf) |
 
 ---
 
