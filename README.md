@@ -54,7 +54,7 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 2nd Semester of MEng @ University of Windsor 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Subject as a part of the Semester II of MEng @ University of Windsor 👈🏻 </b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻 </a></p>
  
