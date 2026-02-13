@@ -186,7 +186,7 @@ The midterm examination serves as a critical checkpoint in the course, evaluatin
 
 | # | Examination Milestone | Archival Deliverables |
 | :---: | :--- | :--- |
-| 1 | **Midterm Examination** | • [Midterm Submission Record](Lecture%20Slides/Week%206/Midterm%20Submission.pdf) |
+| 1 | **Midterm Examination** | [Midterm Submission Record](Lecture%20Slides/Week%206/Midterm%20Submission.pdf) |
 
 ---
 
