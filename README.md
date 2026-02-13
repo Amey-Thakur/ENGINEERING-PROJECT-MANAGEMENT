@@ -162,6 +162,9 @@ Study materials and planning resources for effective academic progression:
 ### Lecture Notes
 A comprehensive archival log documenting pedagogical discourse, session timelines, and applied management theory for the Summer 2023 session.
 
+> [!TIP]
+> Engineering project management is not merely the coordination of tasks; it is the **discipline of strategic foresight**. Every module below traces the critical progression from **Organizational Vision** to **Operational Execution**, enabling the structured delivery of complex engineering initiatives on time, within scope, and on budget.
+
 | # | Week | Analytical Focus | Lecture Slides | Supplemental Resources |
 | :-: | :---: | :--- | :--- | :--- |
 | 1 | **Week 01** | • Project Management: Past and Present<br>• Project Management Overview<br>• The Project Life Cycle | • [Chapter 1](Lecture%20Slides/Week%201/Chapter%201.pdf)<br>• [Chapter 2](Lecture%20Slides/Week%201/Chapter%202.pdf)<br>• [Chapter 3](Lecture%20Slides/Week%201/Chapter%203.pdf) | • [Supplemental Slide Deck 1](Lecture%20Slides/Week%201/GENG%208020%20Supplemental%20Slide%20Deck%201.pdf)<br>• [Supplemental Slide Deck 2](Lecture%20Slides/Week%201/GENG%208020%20Supplemental%20Slide%20Deck%202.pdf)<br>• [Supplemental Slide Deck 3](Lecture%20Slides/Week%201/GENG%208020%20Supplemental%20Slide%20Deck%203.pdf) |
