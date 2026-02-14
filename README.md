@@ -125,7 +125,7 @@ Study materials and planning resources for effective academic progression:
 
 ### Assignments
  
-An archive of all course assessments, organized chronologically by category. This section documents comparative software evaluations, complex case study analyses, and strategic project deliverables.
+A compiled registry of technical deliverables, featuring comparative software analyses and industrial case study reviews.
 
 | # | Assignment | Topic | Mandate | Submission | Feedback | Date | Marks |
 | :---: | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
