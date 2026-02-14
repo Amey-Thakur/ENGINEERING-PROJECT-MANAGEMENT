@@ -136,7 +136,9 @@ Study materials and planning resources for effective academic progression:
 <!-- =========================================================================================
                                      QUIZZES SECTION
      ========================================================================================= -->
-### Quizzes
+## Quizzes
+ 
+A granular record of analytical in-class assessments and tactical project management evaluations conducted during the Summer 2023 session.
 
 | # | Quiz | Topic | Date | Marks |
 | :-: | :--- | :--- | :-: | :-: |
