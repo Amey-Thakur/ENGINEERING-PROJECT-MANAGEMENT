@@ -184,7 +184,7 @@ A comprehensive archival log documenting pedagogical discourse, session timeline
      ========================================================================================= -->
 ## Examinations
 
-The midterm examination serves as a critical checkpoint in the course, evaluating comprehension of core project management principles covered during the first half of the semester.
+The following examinations represent key assessment milestones in Engineering Project Management, documenting technical proficiency through mid-term evaluations and the final summative assessment.
 
 | # | Examination Milestone | Date | Archival Deliverables |
 | :---: | :--- | :---: | :---: |
