@@ -158,7 +158,7 @@ Study materials and planning resources for effective academic progression:
 <!-- =========================================================================================
                                      LECTURE NOTES SECTION
      ========================================================================================= -->
-### Lecture Notes
+## Lecture Notes
 A comprehensive archival log documenting pedagogical discourse, session timelines, and applied management theory for the Summer 2023 session.
 
 > [!TIP]
