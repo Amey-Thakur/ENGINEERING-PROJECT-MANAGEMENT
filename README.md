@@ -187,7 +187,7 @@ A comprehensive archival log documenting pedagogical discourse, session timeline
 The midterm examination serves as a critical checkpoint in the course, evaluating comprehension of core project management principles covered during the first half of the semester.
 
 | # | Examination Milestone | Date | Archival Deliverables |
-| :---: | :--- | :---: | :--- |
+| :---: | :--- | :---: | :---: |
 | 1 | **Midterm Examination** | June 12, 2023 | [Midterm Submission Record](Lecture%20Slides/Week%206/MidTerm%20Submission.pdf) |
 | 2 | **Final Examination** | August 21, 2023 | — |
 
