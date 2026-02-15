@@ -142,20 +142,20 @@ A compiled registry of technical deliverables, featuring comparative software an
  
 A granular record of analytical in-class assessments and tactical project management evaluations conducted during the Summer 2023 session.
 
-| # | Quiz | Topic | Date | Marks |
-| :-: | :--- | :--- | :-: | :-: |
-| 1 | Quiz 1 | In-class Assessment | May 08, 2023 | 25/25 |
-| 2 | Quiz 2 | In-class Assessment | May 15, 2023 | 25/25 |
-| 3 | [Quiz 3](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) | In-class Assessment | May 29, 2023 | 25/25 |
-| 4 | Quiz 4 | In-class Assessment | June 05, 2023 | 25/25 |
-| — | Midterm Exam | In-class Assessment | June 12, 2023 | — |
-| — | Reading Week | — | June 19, 2023 | — |
-| 5 | [Quiz 5](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf) | In-class Assessment | June 26, 2023 | 25/25 |
-| 6 | Quiz 6 | In-class Assessment | July 10, 2023 | 25/25 |
-| 7 | Quiz 7 | In-class Assessment | July 17, 2023 | 25/25 |
-| 8 | Quiz 8 | In-class Assessment | July 24, 2023 | 25/25 |
-| 9 | Quiz 9 | In-class Assessment | July 31, 2023 | 25/25 |
-| 10 | Quiz 10 | In-class Assessment | August 09, 2023 | 25/25 |
+| Quiz | Topic | Date | Marks |
+| :-: | :--- | :---: | :---: |
+| 1 | **Quiz 1** | May 08, 2023 | 25/25 |
+| 2 | **Quiz 2** | May 15, 2023 | 25/25 |
+| 3 | **[Quiz 3](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf)** | May 29, 2023 | 25/25 |
+| 4 | **Quiz 4** | June 05, 2023 | 25/25 |
+| 5 | **Midterm Exam** | June 12, 2023 | — |
+| 6 | **Reading Week** | June 19, 2023 | — |
+| 7 | **[Quiz 5](Lecture%20Slides/Week%207/Quizzes%20-%20Engineering%20Project%20Management%20-%20University%20of%20Windsor.pdf)** | June 26, 2023 | 25/25 |
+| 8 | **Quiz 6** | July 10, 2023 | 25/25 |
+| 9 | **Quiz 7** | July 17, 2023 | 25/25 |
+| 10 | **Quiz 8** | July 24, 2023 | 25/25 |
+| 11 | **Quiz 9** | July 31, 2023 | 25/25 |
+| 12 | **Quiz 10** | August 09, 2023 | 25/25 |
 
 ---
 
@@ -256,7 +256,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
-### Acknowledgments
+### Acknowledgements
 
 Grateful acknowledgment to **Prof. James Linton** for his exceptional instruction in Engineering Project Management, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his thorough explanation of complex project lifecycles and stakeholder governance, established a strong platform for my subsequent professional engineering research and coursework. Special appreciation is extended for his pedagogical innovation in administering thought-provoking in-class quizzes, which effectively bridged theoretical concepts with practical application. His dedication to academic excellence in the field of engineering management is gratefully acknowledged.
 
