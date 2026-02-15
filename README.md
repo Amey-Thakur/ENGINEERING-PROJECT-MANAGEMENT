@@ -256,7 +256,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
-### Acknowledgements
+### Acknowledgments
 
 Grateful acknowledgment to **Prof. James Linton** for his exceptional instruction in Engineering Project Management, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his thorough explanation of complex project lifecycles and stakeholder governance, established a strong platform for my subsequent professional engineering research and coursework. Special appreciation is extended for his pedagogical innovation in administering thought-provoking in-class quizzes, which effectively bridged theoretical concepts with practical application. His dedication to academic excellence in the field of engineering management is gratefully acknowledged.
 
