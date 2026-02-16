@@ -95,7 +95,16 @@ Study materials and planning resources for effective academic progression:
      ========================================================================================= -->
 ### My Notes
 
-**A curated collection of personal study notes authored by Amey Thakur to deepen understanding of project management methodologies.**
+**A curated collection of personal study notes authored by me to deepen understanding of project management methodologies.**
+
+<div align="center">
+
+### Author
+
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39)](https://orcid.org/0000-0001-5644-1575) |
+| :---: |
+
+</div>
 
 > [!TIP]
 > **Strategic Insight:** Project management is the art of forward-thinking. These notes are designed to show that *Planning* is not just paperwork; it is the engineering of certainty in an uncertain environment. By mastering these foundational concepts, you move beyond simply managing tasks to leading complex engineering systems with confidence and precision.
