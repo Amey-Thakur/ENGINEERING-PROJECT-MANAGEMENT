@@ -95,7 +95,7 @@ Study materials and planning resources for effective academic progression:
      ========================================================================================= -->
 ### My Notes
 
-**A curated collection of personal study notes authored by me to deepen understanding of project management methodologies.**
+**A curated collection of personal study notes to deepen understanding of project management methodologies.**
 
 <div align="center">
 
