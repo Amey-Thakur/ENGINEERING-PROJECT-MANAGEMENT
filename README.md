@@ -60,7 +60,7 @@ As I progress in my career, I recognize that project management foundations rema
 - **Community Contribution**: To share these resources with students and learners who may benefit from them
 
 > [!NOTE]
-> All materials were created, compiled, and organized by me during the Summer 2023 semester as part of my MEng degree requirements.
+> All materials were created, compiled, and organized by me during the **Summer 2023** semester as part of my MEng degree requirements.
 
 ---
 
@@ -149,7 +149,7 @@ A compiled registry of technical deliverables, featuring comparative software an
      ========================================================================================= -->
 ### Quizzes
  
-A granular record of analytical in-class assessments and tactical project management evaluations conducted during the Summer 2023 session.
+A granular record of analytical in-class assessments and tactical project management evaluations conducted during the **Summer 2023** session.
 
 | Quiz | Topic | Date | Marks |
 | :-: | :--- | :---: | :---: |
@@ -172,7 +172,7 @@ A granular record of analytical in-class assessments and tactical project manage
                                      LECTURE NOTES SECTION
      ========================================================================================= -->
 ## Lecture Notes
-A comprehensive archival log documenting pedagogical discourse, session timelines, and applied management theory for the Summer 2023 session.
+A comprehensive archival log documenting pedagogical discourse, session timelines, and applied management theory for the **Summer 2023** session.
 
 > [!TIP]
 > Engineering project management is not merely the coordination of tasks; it is the **discipline of strategic foresight**. Every module below traces the critical progression from **Organizational Vision** to **Operational Execution**, enabling the structured delivery of complex engineering initiatives on time, within scope, and on budget.
